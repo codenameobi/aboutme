@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Obiora Nwude</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Obi.
+    \n\nI love fish.
+     \n\nThe Kind that is alive and swims around in an aquariumor river
+      \n\nI like eating fish too, Raw fish. Grilled fish smoked fish
+        \n\nsometimes I even go fishing.
+      \n\n
+        \n\\n even less sometimes, I actually catch something,
+    </string>
+    <string name="what_is_your_nickname">What Is Your Nickname</string>
+    <string name="done">Done</string>
+
 </resources>
